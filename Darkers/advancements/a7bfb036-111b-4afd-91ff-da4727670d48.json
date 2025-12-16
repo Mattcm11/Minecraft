@@ -41,12 +41,6 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/evil_ingot": {
-    "criteria": {
-      "is_cursed_one": "2025-12-15 00:00:54 -0500"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -58,6 +52,12 @@
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2025-12-15 00:00:54 -0500"
+    },
+    "done": false
   },
   "vinery:window": {
     "criteria": {
@@ -156,15 +156,15 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/iron_ring": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-15 00:13:47 -0500"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-15 00:13:47 -0500"
     },
     "done": true
   },
@@ -193,12 +193,6 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-12-14 23:36:12 -0500"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-12-14 23:14:19 -0500",
@@ -206,17 +200,23 @@
     },
     "done": false
   },
-  "morevillagers:all_villages": {
+  "lootr:1chest": {
     "criteria": {
-      "plains": "2025-12-15 00:09:35 -0500"
+      "opened_chest": "2025-12-14 23:36:12 -0500"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-12-15 00:09:35 -0500"
+    },
+    "done": false
   },
   "vinery:oak_wine_rack_small": {
     "criteria": {
@@ -283,6 +283,12 @@
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-12-15 22:25:11 -0500"
+    },
+    "done": false
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -459,15 +465,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-12-15 00:15:46 -0500"
-    },
-    "done": true
-  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-12-15 00:15:46 -0500"
     },
     "done": true
   },
@@ -483,15 +489,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-12-14 23:58:54 -0500"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-14 23:58:54 -0500"
     },
     "done": true
   },
@@ -525,15 +531,21 @@
     },
     "done": false
   },
-  "enigmaticlegacy:book/relics/enigmatic_eye": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "impossible": "2025-12-14 23:36:43 -0500"
+      "sword": "2025-12-15 22:31:15 -0500"
     },
     "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-12-14 23:36:43 -0500"
     },
     "done": true
   },
@@ -588,6 +600,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-12-15 22:37:28 -0500",
+      "minecraft:spider": "2025-12-15 22:31:15 -0500",
       "minecraft:zombie": "2025-12-15 00:00:35 -0500"
     },
     "done": false
@@ -628,15 +642,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-12-15 00:13:03 -0500"
-    },
-    "done": true
-  },
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-12-15 00:13:03 -0500"
     },
     "done": true
   },
@@ -649,6 +663,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-15 22:37:42 -0500"
     },
     "done": true
   },
@@ -766,16 +786,16 @@
     },
     "done": false
   },
-  "enigmaticlegacy:recipes/generic/xp_scroll": {
-    "criteria": {
-      "has_items": "2025-12-15 00:26:37 -0500"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2025-12-14 23:14:19 -0500",
       "is_cursed_one": "2025-12-15 00:00:54 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-12-15 00:26:37 -0500"
     },
     "done": false
   },
@@ -870,17 +890,17 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/twisted_heart": {
-    "criteria": {
-      "is_cursed_one": "2025-12-15 00:00:54 -0500"
-    },
-    "done": false
-  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-12-14 23:46:32 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "is_cursed_one": "2025-12-15 00:00:54 -0500"
+    },
+    "done": false
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
@@ -900,17 +920,17 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-14 23:14:20 -0500"
-    },
-    "done": false
-  },
   "vinery:cherry_stairs": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-14 23:14:20 -0500"
+    },
+    "done": false
   },
   "vinery:grass_slab": {
     "criteria": {
@@ -1240,27 +1260,21 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-14 23:14:20 -0500"
-    },
-    "done": false
-  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-14 23:14:20 -0500"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2025-12-15 00:00:54 -0500"
-    },
-    "done": true
-  },
-  "byg:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-12-14 23:58:54 -0500"
     },
     "done": true
   },
@@ -1276,6 +1290,12 @@
       "minecraft:plains": "2025-12-15 00:09:31 -0500"
     },
     "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-14 23:58:54 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1338,15 +1358,15 @@
     },
     "done": false
   },
-  "immersive_paintings:misc/graffiti": {
-    "criteria": {
-      "has_item": "2025-12-15 00:14:03 -0500"
-    },
-    "done": true
-  },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2025-12-15 00:00:54 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-12-15 00:14:03 -0500"
     },
     "done": true
   },
@@ -1544,21 +1564,27 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-12-15 00:13:47 -0500"
-    },
-    "done": true
-  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-15 00:13:47 -0500"
+    },
+    "done": true
+  },
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-12-14 23:47:26 -0500"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-15 21:43:30 -0500"
     },
     "done": true
   },

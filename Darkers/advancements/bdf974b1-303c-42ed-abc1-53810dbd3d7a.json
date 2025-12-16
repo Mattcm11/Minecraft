@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-15 23:18:16 -0500"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -111,6 +117,12 @@
   "enigmaticaddons:book/tools/ichor_spear": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-12-15 23:17:50 -0500"
     },
     "done": true
   },
@@ -291,9 +303,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-12-15 21:29:46 -0500",
       "apple": "2025-12-15 00:13:18 -0500"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-12-15 19:47:44 -0500"
+    },
+    "done": true
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -355,6 +374,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-12-15 23:49:00 -0500"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-12-14 23:26:39 -0500"
@@ -370,6 +395,18 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-12-15 19:47:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-12-15 23:00:48 -0500"
     },
     "done": true
   },
@@ -406,6 +443,12 @@
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2025-12-15 03:37:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-12-15 22:48:30 -0500"
     },
     "done": false
   },
@@ -496,6 +539,12 @@
   "enigmaticlegacy:recipes/generic/enchantment_transposer": {
     "criteria": {
       "has_items": "2025-12-15 03:39:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-15 20:35:14 -0500"
     },
     "done": true
   },
@@ -604,9 +653,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-12-15 22:59:11 -0500",
       "minecraft:skeleton": "2025-12-15 03:41:38 -0500",
+      "savage_and_ravage:creepie": "2025-12-15 22:57:07 -0500",
+      "minecraft:spider": "2025-12-15 20:47:11 -0500",
       "minecraft:creeper": "2025-12-15 03:41:35 -0500",
       "minecraft:phantom": "2025-12-15 03:40:52 -0500",
+      "minecraft:witch": "2025-12-15 23:01:27 -0500",
       "minecraft:zombie": "2025-12-15 03:41:07 -0500",
       "minecraft:drowned": "2025-12-15 03:37:18 -0500"
     },
@@ -690,6 +743,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-12-15 23:49:00 -0500"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-12-14 23:26:38 -0500"
@@ -759,6 +818,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-12-15 19:45:20 -0500"
     },
     "done": true
   },
@@ -842,7 +907,14 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "ratatouille": "2025-12-15 00:46:25 -0500"
+      "ratatouille": "2025-12-15 00:46:25 -0500",
+      "bacon_and_eggs": "2025-12-15 20:50:20 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-12-15 22:17:28 -0500"
     },
     "done": false
   },
@@ -1264,6 +1336,8 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2025-12-15 00:10:54 -0500",
+      "byg:allium_fields": "2025-12-15 20:37:13 -0500",
+      "byg:prairie": "2025-12-15 20:38:17 -0500",
       "byg:autumnal_taiga": "2025-12-15 02:54:32 -0500",
       "byg:autumnal_forest": "2025-12-15 02:43:45 -0500",
       "byg:cika_woods": "2025-12-15 02:50:42 -0500",
@@ -1308,6 +1382,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-12-15 02:44:42 -0500",
       "minecraft:taiga": "2025-12-14 23:26:39 -0500",
+      "minecraft:sunflower_plains": "2025-12-15 22:51:13 -0500",
       "minecraft:beach": "2025-12-15 00:10:42 -0500",
       "minecraft:river": "2025-12-15 00:10:49 -0500",
       "minecraft:stony_shore": "2025-12-14 23:40:56 -0500",
@@ -1369,6 +1444,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-15 23:14:18 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -1386,6 +1467,12 @@
       "log_spam_fixer": "2025-12-14 23:26:39 -0500"
     },
     "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-12-15 20:34:23 -0500"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
@@ -1488,6 +1575,12 @@
   "vinery:coarse_dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-12-15 22:48:30 -0500"
     },
     "done": true
   },
