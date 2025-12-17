@@ -2,9 +2,7 @@
 	id: "bdf974b1-303c-42ed-abc1-53810dbd3d7a"
 	type: "player"
 	player_name: "illidan01"
-	ranks: {
-		bdf974b1-303c-42ed-abc1-53810dbd3d7a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "illidan01"
 		"ftbteams:description": ""

@@ -2,9 +2,7 @@
 	id: "b835ca6a-5a79-4ea6-8d11-57be0f7861b2"
 	type: "player"
 	player_name: "Chiikyy"
-	ranks: {
-		b835ca6a-5a79-4ea6-8d11-57be0f7861b2: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Chiikyy"
 		"ftbteams:description": ""

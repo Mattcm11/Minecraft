@@ -108,6 +108,24 @@
     },
     "done": true
   },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2025-12-17 00:15:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-16 19:41:35 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2025-12-17 01:06:54 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -192,6 +210,12 @@
     },
     "done": true
   },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2025-12-16 22:35:05 -0500"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-12-14 23:26:38 -0500",
@@ -244,6 +268,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-12-16 18:52:53 -0500"
     },
     "done": true
   },
@@ -304,7 +334,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-12-15 21:29:46 -0500",
-      "apple": "2025-12-15 00:13:18 -0500"
+      "apple": "2025-12-15 00:13:18 -0500",
+      "potato": "2025-12-16 19:53:25 -0500",
+      "bread": "2025-12-16 18:43:15 -0500",
+      "rotten_flesh": "2025-12-17 00:50:38 -0500",
+      "carrot": "2025-12-16 17:56:01 -0500"
     },
     "done": false
   },
@@ -350,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-12-16 20:01:03 -0500"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-12-14 23:26:38 -0500"
@@ -382,9 +422,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-12-16 20:15:39 -0500",
       "log_spam_fixer": "2025-12-14 23:26:39 -0500"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -584,6 +625,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-12-16 20:46:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-12-15 01:51:39 -0500"
@@ -595,6 +642,12 @@
       "has_parent_recipe": "2025-12-15 00:02:00 -0500"
     },
     "done": false
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-12-16 20:03:44 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -633,6 +686,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-12-16 21:14:21 -0500"
+    },
+    "done": true
+  },
   "vinery:wine_rack_5": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -659,11 +718,18 @@
       "minecraft:spider": "2025-12-15 20:47:11 -0500",
       "minecraft:creeper": "2025-12-15 03:41:35 -0500",
       "minecraft:phantom": "2025-12-15 03:40:52 -0500",
+      "minecraft:zombified_piglin": "2025-12-16 22:58:19 -0500",
       "minecraft:witch": "2025-12-15 23:01:27 -0500",
       "minecraft:zombie": "2025-12-15 03:41:07 -0500",
       "minecraft:drowned": "2025-12-15 03:37:18 -0500"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-16 19:41:35 -0500"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -716,6 +782,12 @@
   "vinery:wine_rack_2": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2025-12-16 20:56:07 -0500"
     },
     "done": true
   },
@@ -827,9 +899,21 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2025-12-16 22:35:05 -0500"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-12-16 20:02:35 -0500"
     },
     "done": true
   },
@@ -875,6 +959,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-12-16 20:26:45 -0500"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-12-14 23:26:38 -0500"
@@ -914,7 +1004,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "onion": "2025-12-15 22:17:28 -0500"
+      "onion": "2025-12-15 22:17:28 -0500",
+      "pumpkin": "2025-12-16 19:45:23 -0500"
     },
     "done": false
   },
@@ -951,6 +1042,12 @@
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-12-16 19:41:35 -0500"
     },
     "done": true
   },
@@ -1093,6 +1190,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-12-16 19:41:35 -0500"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -1117,6 +1220,18 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-12-16 17:55:20 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-12-16 19:21:43 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-12-15 03:23:35 -0500"
@@ -1126,6 +1241,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-12-16 17:55:20 -0500"
     },
     "done": true
   },
@@ -1171,6 +1292,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-12-16 18:43:54 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -1210,6 +1337,18 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-16 19:21:35 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_lumberjack": {
+    "criteria": {
+      "lumberjack": "2025-12-16 23:13:22 -0500"
     },
     "done": true
   },
@@ -1341,8 +1480,12 @@
       "byg:autumnal_taiga": "2025-12-15 02:54:32 -0500",
       "byg:autumnal_forest": "2025-12-15 02:43:45 -0500",
       "byg:cika_woods": "2025-12-15 02:50:42 -0500",
+      "byg:warped_desert": "2025-12-16 20:01:50 -0500",
+      "byg:magma_wastes": "2025-12-16 19:41:36 -0500",
       "byg:howling_peaks": "2025-12-15 02:50:13 -0500",
       "byg:skyris_vale": "2025-12-15 02:50:32 -0500",
+      "byg:crimson_gardens": "2025-12-16 20:12:12 -0500",
+      "byg:basalt_barrera": "2025-12-16 18:42:26 -0500",
       "byg:maple_taiga": "2025-12-15 00:33:59 -0500",
       "byg:borealis_grove": "2025-12-15 02:50:23 -0500"
     },
@@ -1471,6 +1614,12 @@
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-12-15 20:34:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-12-16 19:45:23 -0500"
     },
     "done": true
   },
@@ -1632,9 +1781,21 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/fulfill_request": {
+    "criteria": {
+      "click_gui_button_fulfill": "2025-12-16 21:43:57 -0500"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-12-16 17:47:14 -0500"
     },
     "done": true
   },
@@ -1677,6 +1838,18 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-12-16 18:54:05 -0500"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-12-16 19:41:35 -0500"
     },
     "done": true
   },

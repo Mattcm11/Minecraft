@@ -2,9 +2,7 @@
 	id: "a7bfb036-111b-4afd-91ff-da4727670d48"
 	type: "player"
 	player_name: "Tivenshino"
-	ranks: {
-		a7bfb036-111b-4afd-91ff-da4727670d48: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Tivenshino"
 		"ftbteams:description": ""
