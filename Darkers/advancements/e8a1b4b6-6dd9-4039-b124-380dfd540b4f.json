@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2025-12-17 22:07:09 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-12-14 20:52:50 -0500"
@@ -192,11 +198,23 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-12-17 22:59:01 -0500"
+    },
+    "done": true
+  },
   "repurposed_structures:witch_huts": {
     "criteria": {
       "in_witch_hut_giant_tree_taiga": "2025-12-16 21:43:33 -0500"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-12-17 22:02:30 -0500"
+    },
+    "done": true
   },
   "apotheosis:give_book": {
     "criteria": {
@@ -480,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-12-17 22:02:30 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-12-15 00:09:47 -0500"
@@ -547,6 +571,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-12-15 00:09:57 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2025-12-17 22:50:43 -0500"
     },
     "done": true
   },
@@ -764,6 +794,7 @@
       "minecraft:vindicator": "2025-12-15 22:54:23 -0500",
       "minecraft:spider": "2025-12-15 20:40:46 -0500",
       "minecraft:evoker": "2025-12-15 23:15:49 -0500",
+      "quark:forgotten": "2025-12-17 23:03:40 -0500",
       "minecraft:phantom": "2025-12-15 22:54:49 -0500",
       "minecraft:witch": "2025-12-15 23:07:54 -0500",
       "minecraft:enderman": "2025-12-15 23:53:28 -0500",
@@ -771,6 +802,7 @@
       "minecraft:stray": "2025-12-16 22:12:51 -0500",
       "minecraft:vex": "2025-12-16 22:04:38 -0500",
       "minecraft:zombie": "2025-12-15 19:48:52 -0500",
+      "minecraft:drowned": "2025-12-17 22:25:30 -0500",
       "minecraft:zombie_villager": "2025-12-15 19:57:10 -0500"
     },
     "done": false
@@ -780,6 +812,12 @@
       "log_spam_fixer": "2025-12-14 20:52:51 -0500"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-12-17 22:02:30 -0500"
+    },
+    "done": true
   },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
@@ -1125,6 +1163,12 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-12-17 23:23:01 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 20:52:50 -0500"
@@ -1191,11 +1235,23 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-12-17 23:41:33 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
       "is_cursed_one": "2025-12-14 23:57:28 -0500"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-12-17 22:50:43 -0500"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -1330,6 +1386,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-12-17 23:23:01 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-12-15 22:27:45 -0500"
@@ -1423,6 +1485,12 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-12-16 23:00:17 -0500"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-12-17 22:02:30 -0500"
     },
     "done": true
   },
@@ -1592,6 +1660,7 @@
       "byg:autumnal_forest": "2025-12-14 23:52:34 -0500",
       "byg:cika_woods": "2025-12-15 00:09:12 -0500",
       "byg:zelkova_forest": "2025-12-14 23:54:13 -0500",
+      "byg:dacite_ridges": "2025-12-17 23:00:02 -0500",
       "byg:basalt_barrera": "2025-12-15 20:34:36 -0500",
       "byg:maple_taiga": "2025-12-14 23:53:05 -0500",
       "byg:dacite_shore": "2025-12-15 21:01:11 -0500",
@@ -1608,6 +1677,18 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-12-14 20:52:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-17 22:02:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-12-17 23:09:27 -0500"
     },
     "done": true
   },
@@ -1647,6 +1728,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-12-17 23:03:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-12-14 23:54:42 -0500",
@@ -1657,11 +1744,13 @@
       "minecraft:beach": "2025-12-15 00:05:33 -0500",
       "minecraft:river": "2025-12-14 23:52:36 -0500",
       "minecraft:stony_shore": "2025-12-14 20:58:40 -0500",
+      "minecraft:snowy_plains": "2025-12-17 23:23:30 -0500",
       "minecraft:dripstone_caves": "2025-12-16 23:01:34 -0500",
       "minecraft:snowy_taiga": "2025-12-16 23:10:49 -0500",
       "minecraft:cold_ocean": "2025-12-14 23:39:58 -0500",
       "atmospheric:aspen_parkland": "2025-12-14 23:54:16 -0500",
       "minecraft:forest": "2025-12-14 23:51:58 -0500",
+      "minecraft:lush_caves": "2025-12-17 22:57:44 -0500",
       "minecraft:ocean": "2025-12-16 22:50:02 -0500",
       "minecraft:flower_forest": "2025-12-15 22:19:33 -0500",
       "minecraft:meadow": "2025-12-15 22:35:35 -0500",
@@ -1683,21 +1772,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-12-16 23:16:23 -0500",
-      "!bit14": "2025-12-16 23:16:23 -0500",
-      "!bit11": "2025-12-16 23:16:23 -0500",
-      "!bit12": "2025-12-16 23:16:23 -0500",
-      "!bit10": "2025-12-16 23:16:23 -0500",
-      "!bit9": "2025-12-16 23:16:23 -0500",
-      "!bit8": "2025-12-16 23:16:23 -0500",
-      "!bit7": "2025-12-16 23:16:23 -0500",
-      "!bit6": "2025-12-16 23:16:23 -0500",
-      "!bit5": "2025-12-16 23:16:23 -0500",
-      "!bit4": "2025-12-16 23:16:23 -0500",
-      "!bit3": "2025-12-16 23:16:23 -0500",
-      "!bit2": "2025-12-16 23:16:23 -0500",
-      "!bit1": "2025-12-16 23:16:23 -0500",
-      "!bit0": "2025-12-16 23:16:23 -0500"
+      "direct": "2025-12-17 23:45:19 -0500"
     },
     "done": false
   },
@@ -1753,6 +1828,18 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-12-14 20:52:50 -0500",
       "inv_changed-diamond": "2025-12-14 20:52:50 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-12-17 22:02:30 -0500"
+    },
+    "done": true
+  },
+  "totw_modded:ice_tower": {
+    "criteria": {
+      "ice": "2025-12-17 23:24:23 -0500"
     },
     "done": true
   },
@@ -1836,9 +1923,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-12-17 23:02:38 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 20:52:50 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-12-17 22:50:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-17 23:09:27 -0500"
     },
     "done": true
   },
@@ -1983,6 +2088,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-12-17 22:51:13 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-12-14 20:52:50 -0500"
@@ -2004,6 +2115,12 @@
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2025-12-16 23:06:46 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-12-17 22:49:03 -0500"
     },
     "done": true
   },
@@ -2088,6 +2205,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-12-14 20:57:10 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-12-17 22:51:13 -0500"
     },
     "done": true
   },
