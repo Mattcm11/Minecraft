@@ -2,9 +2,7 @@
 	id: "0371e0c3-7d44-42b0-a578-a5374f757759"
 	type: "player"
 	player_name: "Yefer98"
-	ranks: {
-		0371e0c3-7d44-42b0-a578-a5374f757759: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Yefer98"
 		"ftbteams:description": ""

@@ -246,6 +246,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-12-22 16:09:32 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -607,14 +613,17 @@
       "minecraft:pillager": "2025-12-18 22:16:20 -0500",
       "minecraft:blaze": "2025-12-19 21:59:40 -0500",
       "minecraft:skeleton": "2025-12-18 22:16:40 -0500",
+      "savage_and_ravage:creepie": "2025-12-22 16:17:31 -0500",
       "minecraft:ravager": "2025-12-22 12:48:24 -0500",
       "minecraft:ghast": "2025-12-20 11:43:54 -0500",
       "minecraft:hoglin": "2025-12-21 19:37:18 -0500",
+      "savage_and_ravage:executioner": "2025-12-22 16:18:51 -0500",
       "minecraft:vindicator": "2025-12-18 22:16:56 -0500",
       "minecraft:magma_cube": "2025-12-20 10:57:24 -0500",
       "minecraft:spider": "2025-12-18 22:54:35 -0500",
       "minecraft:piglin_brute": "2025-12-20 10:01:17 -0500",
       "minecraft:creeper": "2025-12-18 22:39:06 -0500",
+      "savage_and_ravage:trickster": "2025-12-22 16:21:19 -0500",
       "minecraft:evoker": "2025-12-20 17:55:35 -0500",
       "quark:forgotten": "2025-12-21 15:05:54 -0500",
       "minecraft:phantom": "2025-12-19 15:53:40 -0500",
@@ -1692,6 +1701,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-22 16:35:36 -0500"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1743,6 +1758,12 @@
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-12-19 15:49:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-12-22 16:23:41 -0500"
     },
     "done": true
   },
@@ -2028,6 +2049,12 @@
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-12-22 16:30:35 -0500"
     },
     "done": true
   },
@@ -2727,6 +2754,12 @@
     },
     "done": true
   },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-12-22 16:30:35 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_planks": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -2884,6 +2917,26 @@
       "enchanted_item": "2025-12-18 23:10:44 -0500"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-12-22 18:28:13 -0500",
+      "!bit14": "2025-12-22 18:28:13 -0500",
+      "!bit11": "2025-12-22 18:28:13 -0500",
+      "!bit12": "2025-12-22 18:28:13 -0500",
+      "!bit10": "2025-12-22 18:28:13 -0500",
+      "!bit9": "2025-12-22 18:28:13 -0500",
+      "!bit8": "2025-12-22 18:28:13 -0500",
+      "!bit7": "2025-12-22 18:28:13 -0500",
+      "!bit6": "2025-12-22 18:28:13 -0500",
+      "!bit5": "2025-12-22 18:28:13 -0500",
+      "!bit4": "2025-12-22 18:28:13 -0500",
+      "!bit3": "2025-12-22 18:28:13 -0500",
+      "!bit2": "2025-12-22 18:28:13 -0500",
+      "!bit1": "2025-12-22 18:28:13 -0500",
+      "!bit0": "2025-12-22 18:28:13 -0500"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
