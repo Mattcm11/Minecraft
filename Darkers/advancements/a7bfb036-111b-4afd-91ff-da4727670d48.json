@@ -370,6 +370,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-12-21 23:09:19 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2025-12-15 00:13:52 -0500",
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-12-21 22:03:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-12-15 00:15:46 -0500"
@@ -476,6 +488,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-12-14 23:47:26 -0500"
+    },
+    "done": true
+  },
+  "majruszsaccessories:swimmer_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-21 22:34:11 -0500"
     },
     "done": true
   },
@@ -530,6 +548,7 @@
       "minecraft:spider": "2025-12-15 22:31:15 -0500",
       "minecraft:creeper": "2025-12-20 11:39:13 -0500",
       "minecraft:zombified_piglin": "2025-12-16 20:36:42 -0500",
+      "minecraft:witch": "2025-12-21 23:08:39 -0500",
       "minecraft:wither_skeleton": "2025-12-19 19:48:09 -0500",
       "minecraft:husk": "2025-12-16 21:56:30 -0500",
       "minecraft:silverfish": "2025-12-16 21:54:31 -0500",
@@ -779,6 +798,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-12-20 11:41:11 -0500"
+    },
+    "done": true
+  },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2025-12-21 22:52:38 -0500"
     },
     "done": true
   },
@@ -1066,6 +1091,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-12-21 23:05:39 -0500",
       "minecraft:old_growth_pine_taiga": "2025-12-14 23:59:20 -0500",
       "minecraft:taiga": "2025-12-14 23:14:20 -0500",
       "atmospheric:rainforest_basin": "2025-12-20 12:58:07 -0500",
@@ -1087,6 +1113,7 @@
       "minecraft:ocean": "2025-12-20 11:41:20 -0500",
       "minecraft:snowy_beach": "2025-12-20 12:10:12 -0500",
       "minecraft:flower_forest": "2025-12-19 17:22:09 -0500",
+      "minecraft:frozen_peaks": "2025-12-21 22:01:55 -0500",
       "minecraft:old_growth_birch_forest": "2025-12-20 12:42:22 -0500",
       "minecraft:deep_dark": "2025-12-20 08:50:06 -0500",
       "atmospheric:kousa_jungle": "2025-12-20 12:04:01 -0500",
@@ -1201,6 +1228,12 @@
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-12-21 23:05:54 -0500"
     },
     "done": true
   },
@@ -1517,6 +1550,12 @@
     },
     "done": true
   },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-12-21 22:42:30 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-12-14 23:14:19 -0500",
@@ -1595,6 +1634,7 @@
       "cooked_porkchop": "2025-12-15 22:25:11 -0500",
       "cooked_beef": "2025-12-16 21:12:17 -0500",
       "baked_potato": "2025-12-18 22:02:32 -0500",
+      "cooked_chicken": "2025-12-21 22:31:28 -0500",
       "cooked_mutton": "2025-12-19 11:54:36 -0500",
       "golden_apple": "2025-12-19 17:59:20 -0500",
       "carrot": "2025-12-19 07:32:07 -0500"
@@ -1679,6 +1719,12 @@
       "get_stone": "2025-12-14 23:52:31 -0500"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-12-21 22:57:08 -0500"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
@@ -1984,6 +2030,12 @@
     },
     "done": true
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-12-21 22:11:06 -0500"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -2099,6 +2151,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
     "criteria": {
       "has_items": "2025-12-19 18:46:06 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-12-21 22:57:08 -0500"
     },
     "done": true
   },
@@ -2529,6 +2587,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-12-16 21:54:46 -0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-21 22:57:18 -0500"
     },
     "done": true
   },

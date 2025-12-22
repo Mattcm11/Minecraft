@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-12-21 21:58:50 -0500"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-12-20 11:44:14 -0500",
@@ -1389,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-12-21 22:51:50 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-12-18 23:05:13 -0500"
@@ -1535,6 +1547,12 @@
       "has_parent_recipe": "2025-12-19 00:15:48 -0500"
     },
     "done": false
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-21 22:52:39 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -1749,6 +1767,12 @@
     "criteria": {
       "has_recipe": "2025-12-18 21:43:39 -0500",
       "has_cobweb": "2025-12-18 21:43:39 -0500"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-12-21 22:42:48 -0500"
     },
     "done": true
   },
@@ -2300,6 +2324,12 @@
     },
     "done": true
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-12-21 22:11:29 -0500"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
@@ -2448,6 +2478,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-12-18 23:20:37 -0500"
+    },
+    "done": true
+  },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2025-12-21 22:52:00 -0500"
     },
     "done": true
   },
@@ -3006,6 +3042,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-12-19 07:33:14 -0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-21 22:57:42 -0500"
     },
     "done": true
   },

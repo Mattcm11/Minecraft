@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-12-21 17:27:10 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -117,6 +123,12 @@
   "unusualend:we_have_a_problem": {
     "criteria": {
       "we_have_a_problem": "2025-12-19 15:52:42 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 19:33:51 -0500"
     },
     "done": true
   },
@@ -144,6 +156,12 @@
     },
     "done": false
   },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2025-12-21 20:00:29 -0500"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-12-18 21:48:30 -0500"
@@ -153,6 +171,12 @@
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-12-21 21:22:20 -0500"
     },
     "done": true
   },
@@ -189,6 +213,12 @@
   "apotheosis:enchanting/upgrade_hellshelf": {
     "criteria": {
       "glowing": "2025-12-20 12:56:15 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-12-21 21:54:36 -0500"
     },
     "done": true
   },
@@ -252,11 +282,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-12-21 21:41:38 -0500"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_pillager_camp": "2025-12-18 22:52:11 -0500",
       "entered_fishing_ship": "2025-12-20 14:26:40 -0500",
+      "entered_deep_crypt": "2025-12-21 17:10:32 -0500",
       "entered_druid_circle": "2025-12-19 23:15:31 -0500",
+      "entered_watch_tower": "2025-12-21 15:53:40 -0500",
       "entered_ruined_building": "2025-12-19 16:02:12 -0500"
     },
     "done": false
@@ -357,9 +395,27 @@
     },
     "done": true
   },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2025-12-21 15:23:45 -0500"
+    },
+    "done": true
+  },
+  "cisco_mod:winter_harbinger": {
+    "criteria": {
+      "winter_harbinger": "2025-12-21 16:05:15 -0500"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 13:42:39 -0500"
     },
     "done": true
   },
@@ -396,6 +452,12 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-12-20 10:39:37 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-12-21 22:49:21 -0500"
     },
     "done": true
   },
@@ -447,9 +509,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/cosmic_heart": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-12-18 22:13:19 -0500"
+    },
+    "done": true
+  },
+  "majruszsaccessories:swimmer_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-21 19:29:25 -0500"
     },
     "done": true
   },
@@ -462,6 +536,12 @@
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-12-18 22:39:08 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/cosmic_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 21:47:26 -0500"
     },
     "done": true
   },
@@ -497,6 +577,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-12-21 18:17:04 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -515,19 +601,24 @@
       "minecraft:blaze": "2025-12-19 21:59:40 -0500",
       "minecraft:skeleton": "2025-12-18 22:16:40 -0500",
       "minecraft:ghast": "2025-12-20 11:43:54 -0500",
+      "minecraft:hoglin": "2025-12-21 19:37:18 -0500",
       "minecraft:vindicator": "2025-12-18 22:16:56 -0500",
       "minecraft:magma_cube": "2025-12-20 10:57:24 -0500",
       "minecraft:spider": "2025-12-18 22:54:35 -0500",
       "minecraft:piglin_brute": "2025-12-20 10:01:17 -0500",
       "minecraft:creeper": "2025-12-18 22:39:06 -0500",
       "minecraft:evoker": "2025-12-20 17:55:35 -0500",
+      "quark:forgotten": "2025-12-21 15:05:54 -0500",
       "minecraft:phantom": "2025-12-19 15:53:40 -0500",
+      "minecraft:zombified_piglin": "2025-12-21 19:02:02 -0500",
       "minecraft:witch": "2025-12-19 23:37:45 -0500",
       "minecraft:wither_skeleton": "2025-12-18 22:17:19 -0500",
       "minecraft:husk": "2025-12-20 17:13:48 -0500",
       "minecraft:cave_spider": "2025-12-19 18:02:49 -0500",
       "minecraft:piglin": "2025-12-20 10:37:55 -0500",
       "minecraft:enderman": "2025-12-18 22:54:33 -0500",
+      "minecraft:stray": "2025-12-21 13:41:26 -0500",
+      "minecraft:silverfish": "2025-12-21 20:58:31 -0500",
       "minecraft:vex": "2025-12-20 17:53:09 -0500",
       "minecraft:zombie": "2025-12-18 22:18:01 -0500",
       "minecraft:drowned": "2025-12-18 22:56:13 -0500",
@@ -554,6 +645,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_shovel": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
+  },
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -568,13 +665,26 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
-      "spellstone1": "2025-12-19 15:25:23 -0500"
+      "spellstone1": "2025-12-19 15:25:23 -0500",
+      "spellstone5": "2025-12-21 13:42:39 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/etherium_sword": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-21 21:47:26 -0500"
     },
     "done": false
   },
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2025-12-20 14:58:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-21 18:38:41 -0500"
     },
     "done": true
   },
@@ -651,6 +761,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_ingot_from_blasting": {
+    "criteria": {
+      "has_items": "2025-12-21 21:51:01 -0500"
+    },
+    "done": true
+  },
   "majruszsaccessories:dream_catcher": {
     "criteria": {
       "picked_up_accessory": "2025-12-19 18:28:03 -0500"
@@ -723,6 +839,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_scythe": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
+  },
   "vinery:grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-12-18 21:48:30 -0500"
@@ -738,6 +860,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-12-19 16:49:57 -0500"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-12-21 20:00:27 -0500"
     },
     "done": true
   },
@@ -777,6 +905,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-12-21 19:35:10 -0500"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -795,9 +929,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-12-21 18:11:29 -0500"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-12-19 15:52:19 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2025-12-21 19:33:51 -0500"
     },
     "done": true
   },
@@ -921,6 +1067,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_pickaxe": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/thunder_scroll": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -936,6 +1088,12 @@
   "enigmaticaddons:book/relics/antique_bag": {
     "criteria": {
       "has_items": "2025-12-20 00:02:30 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-12-21 13:43:04 -0500"
     },
     "done": true
   },
@@ -1048,6 +1206,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-12-21 15:05:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-12-19 23:34:48 -0500",
@@ -1059,21 +1223,39 @@
       "minecraft:frozen_river": "2025-12-20 12:26:26 -0500",
       "minecraft:sunflower_plains": "2025-12-18 22:47:38 -0500",
       "minecraft:beach": "2025-12-18 22:12:48 -0500",
+      "atmospheric:flourishing_dunes": "2025-12-21 20:06:15 -0500",
       "minecraft:sparse_jungle": "2025-12-20 14:37:08 -0500",
       "minecraft:river": "2025-12-18 21:48:58 -0500",
+      "minecraft:lukewarm_ocean": "2025-12-21 19:25:19 -0500",
       "minecraft:stony_shore": "2025-12-20 14:26:30 -0500",
+      "minecraft:snowy_plains": "2025-12-21 13:24:40 -0500",
+      "minecraft:dripstone_caves": "2025-12-21 15:08:13 -0500",
+      "minecraft:snowy_taiga": "2025-12-21 13:22:15 -0500",
       "minecraft:grove": "2025-12-19 23:39:32 -0500",
       "minecraft:jagged_peaks": "2025-12-19 23:37:20 -0500",
+      "atmospheric:dunes": "2025-12-21 20:05:09 -0500",
       "minecraft:cold_ocean": "2025-12-19 15:18:20 -0500",
       "atmospheric:aspen_parkland": "2025-12-19 15:31:38 -0500",
       "minecraft:forest": "2025-12-18 22:13:59 -0500",
+      "minecraft:lush_caves": "2025-12-21 18:17:04 -0500",
       "minecraft:deep_cold_ocean": "2025-12-19 15:32:35 -0500",
+      "minecraft:frozen_ocean": "2025-12-21 18:17:43 -0500",
+      "minecraft:desert": "2025-12-21 19:59:26 -0500",
       "minecraft:deep_frozen_ocean": "2025-12-19 15:49:31 -0500",
       "minecraft:ocean": "2025-12-18 22:16:20 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-12-21 19:22:49 -0500",
+      "minecraft:snowy_beach": "2025-12-21 20:54:33 -0500",
+      "minecraft:warm_ocean": "2025-12-21 19:59:21 -0500",
+      "minecraft:deep_lukewarm_ocean": "2025-12-21 19:30:35 -0500",
       "minecraft:flower_forest": "2025-12-18 22:52:38 -0500",
+      "atmospheric:scrubland": "2025-12-21 20:00:09 -0500",
       "minecraft:frozen_peaks": "2025-12-19 23:39:37 -0500",
       "atmospheric:laurel_forest": "2025-12-20 14:28:11 -0500",
+      "minecraft:old_growth_birch_forest": "2025-12-21 20:39:21 -0500",
+      "minecraft:deep_dark": "2025-12-21 21:22:20 -0500",
+      "atmospheric:kousa_jungle": "2025-12-21 13:24:29 -0500",
       "minecraft:meadow": "2025-12-18 22:49:22 -0500",
+      "minecraft:savanna": "2025-12-21 19:34:35 -0500",
       "minecraft:plains": "2025-12-18 21:48:57 -0500"
     },
     "done": false
@@ -1087,6 +1269,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2025-12-21 15:59:40 -0500"
     },
     "done": true
   },
@@ -1187,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-12-21 21:34:46 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-12-18 23:08:45 -0500"
@@ -1241,9 +1435,21 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-12-21 13:18:42 -0500"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-12-19 17:55:28 -0500"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-12-21 13:25:01 -0500"
     },
     "done": true
   },
@@ -1267,6 +1473,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/advanced_brewing": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-12-21 17:23:57 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1285,11 +1503,23 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 15:59:40 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/curse_transposer": {
     "criteria": {
       "has_parent_recipe": "2025-12-20 14:58:25 -0500"
     },
     "done": false
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-12-21 19:17:51 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -1333,6 +1563,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 13:42:39 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1362,6 +1598,12 @@
       "log_spam_fixer": "2025-12-18 21:48:31 -0500"
     },
     "done": false
+  },
+  "cisco_mod:silver_wolfs_bite": {
+    "criteria": {
+      "silver_wolfs_bite": "2025-12-21 16:14:27 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -1396,6 +1638,12 @@
   "enigmaticlegacy:book/materials/earth_heart": {
     "criteria": {
       "has_items": "2025-12-19 15:25:20 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/astral_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 21:47:26 -0500"
     },
     "done": true
   },
@@ -1444,6 +1692,12 @@
     },
     "done": false
   },
+  "dungeons_plus:adventure/find_reanimated_ruins": {
+    "criteria": {
+      "in_frozen": "2025-12-21 20:57:15 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-12-18 21:48:30 -0500"
@@ -1477,6 +1731,12 @@
   "apotheosis:enchanting/arcana50": {
     "criteria": {
       "enchanted_item": "2025-12-20 15:12:31 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 15:59:40 -0500"
     },
     "done": true
   },
@@ -1547,6 +1807,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-12-21 15:59:40 -0500"
+    },
+    "done": true
+  },
   "vinery:red_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1574,7 +1840,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-12-19 17:25:01 -0500",
-      "golden_apple": "2025-12-18 22:17:43 -0500"
+      "golden_apple": "2025-12-18 22:17:43 -0500",
+      "bread": "2025-12-21 21:30:24 -0500"
     },
     "done": false
   },
@@ -1587,6 +1854,12 @@
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:31 -0500"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-12-21 22:24:22 -0500"
     },
     "done": true
   },
@@ -1658,7 +1931,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-12-19 15:53:40 -0500"
+      "phantom": "2025-12-19 15:53:40 -0500",
+      "warden": "2025-12-21 23:00:58 -0500"
     },
     "done": false
   },
@@ -1747,6 +2021,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2025-12-21 13:42:39 -0500"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1789,6 +2069,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/astral_dust": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2025-12-19 18:47:49 -0500"
@@ -1806,6 +2092,12 @@
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/fabulous_scroll": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -1931,6 +2223,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/misc/astral_potion": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-12-18 22:18:39 -0500"
@@ -2008,9 +2306,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-12-18 21:48:30 -0500"
+      "has_parent_recipe": "2025-12-18 21:48:30 -0500",
+      "has_items": "2025-12-21 13:42:39 -0500"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
@@ -2029,6 +2328,12 @@
       "has_the_recipe": "2025-12-19 18:47:49 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_axe": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -2126,9 +2431,27 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-12-21 23:00:58 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-12-19 17:50:21 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-12-21 17:28:13 -0500"
+    },
+    "done": true
+  },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2025-12-21 22:53:16 -0500"
     },
     "done": true
   },
@@ -2136,6 +2459,12 @@
     "criteria": {
       "has_parent_recipe": "2025-12-18 21:48:30 -0500",
       "has_items": "2025-12-18 22:07:44 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_rod": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
     },
     "done": true
   },
@@ -2207,13 +2536,20 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-12-18 22:34:26 -0500"
+      "has_parent_recipe": "2025-12-18 22:34:26 -0500",
+      "has_items": "2025-12-21 15:59:40 -0500"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-12-21 17:02:46 -0500"
     },
     "done": true
   },
@@ -2235,15 +2571,33 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2025-12-21 13:42:39 -0500"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/scorched_charm": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-12-21 19:16:55 -0500"
+    },
+    "done": true
+  },
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-12-20 15:37:51 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-12-21 18:11:29 -0500"
     },
     "done": true
   },
@@ -2256,6 +2610,12 @@
   "cisco_mod:divine_ruby_advancement": {
     "criteria": {
       "divine_ruby_advancement": "2025-12-19 19:21:42 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/astral_potato": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
     },
     "done": true
   },
@@ -2291,7 +2651,8 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
-      "has_item_1": "2025-12-19 15:25:23 -0500"
+      "has_item_1": "2025-12-19 15:25:23 -0500",
+      "has_item_5": "2025-12-21 13:42:39 -0500"
     },
     "done": false
   },
@@ -2336,6 +2697,7 @@
       "byg:coconino_meadow": "2025-12-18 21:48:31 -0500",
       "byg:allium_fields": "2025-12-18 22:32:52 -0500",
       "byg:prairie": "2025-12-18 22:32:51 -0500",
+      "byg:rainbow_beach": "2025-12-21 19:25:32 -0500",
       "byg:sythian_torrids": "2025-12-20 10:53:10 -0500",
       "byg:glowstone_gardens": "2025-12-19 17:03:37 -0500",
       "byg:orchard": "2025-12-20 14:27:39 -0500",
@@ -2349,6 +2711,7 @@
       "byg:araucaria_savanna": "2025-12-20 14:41:44 -0500",
       "byg:wailing_garth": "2025-12-20 10:29:44 -0500",
       "byg:dacite_ridges": "2025-12-19 15:43:31 -0500",
+      "byg:autumnal_valley": "2025-12-21 21:11:33 -0500",
       "byg:skyris_vale": "2025-12-19 23:37:32 -0500",
       "byg:crimson_gardens": "2025-12-19 16:50:28 -0500",
       "byg:cardinal_tundra": "2025-12-19 23:48:15 -0500",
@@ -2358,10 +2721,18 @@
       "byg:weeping_mire": "2025-12-20 11:07:57 -0500",
       "byg:basalt_barrera": "2025-12-19 16:21:35 -0500",
       "byg:maple_taiga": "2025-12-18 22:35:13 -0500",
+      "byg:mojave_desert": "2025-12-21 19:59:24 -0500",
       "byg:dacite_shore": "2025-12-19 15:32:13 -0500",
-      "byg:frosted_coniferous_forest": "2025-12-20 12:26:12 -0500"
+      "byg:frosted_coniferous_forest": "2025-12-20 12:26:12 -0500",
+      "byg:frosted_taiga": "2025-12-21 13:24:28 -0500"
     },
     "done": false
+  },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-21 17:43:43 -0500"
+    },
+    "done": true
   },
   "comforts:hammock_brown_from_white": {
     "criteria": {
@@ -2378,6 +2749,18 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-12-21 15:59:40 -0500"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-12-21 15:16:58 -0500"
     },
     "done": true
   },
@@ -2404,6 +2787,12 @@
       "enchanted_item": "2025-12-18 23:10:44 -0500"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-12-21 23:09:55 -0500"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -2460,6 +2849,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/astral_breaker": {
+    "criteria": {
+      "has_items": "2025-12-21 21:47:26 -0500"
+    },
+    "done": false
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-12-18 21:48:31 -0500"
@@ -2475,6 +2870,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_bridge": "2025-12-20 10:01:25 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ender_rod": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 21:47:26 -0500"
     },
     "done": true
   },
@@ -2527,6 +2928,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-12-21 17:10:32 -0500"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-12-18 21:48:30 -0500",
@@ -2572,6 +2979,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-21 22:57:27 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -2581,6 +2994,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:31 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_ingot": {
+    "criteria": {
+      "has_items": "2025-12-21 21:51:01 -0500"
     },
     "done": true
   },
@@ -2623,6 +3042,18 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/astral_dust": {
+    "criteria": {
+      "etherium": "2025-12-21 21:47:26 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-12-21 18:11:29 -0500"
     },
     "done": true
   },
