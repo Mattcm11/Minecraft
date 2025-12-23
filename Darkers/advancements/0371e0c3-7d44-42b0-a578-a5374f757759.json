@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-12-22 18:45:24 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2025-12-22 17:14:35 -0500"
@@ -510,6 +516,12 @@
       "is_cursed_one": "2025-12-21 22:42:29 -0500"
     },
     "done": false
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-12-22 18:49:26 -0500"
+    },
+    "done": true
   },
   "morevillagers:root": {
     "criteria": {
@@ -1402,6 +1414,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-12-22 18:45:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-12-21 22:06:54 -0500",
@@ -1441,6 +1459,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-12-21 22:06:53 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-22 18:45:25 -0500"
     },
     "done": true
   },
