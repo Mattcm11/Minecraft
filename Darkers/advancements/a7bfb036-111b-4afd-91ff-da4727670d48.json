@@ -1,4 +1,10 @@
 {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-12-22 20:32:58 -0500"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -234,6 +240,12 @@
     },
     "done": true
   },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2025-12-22 21:03:16 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -299,6 +311,7 @@
       "entered_stables": "2025-12-20 12:46:51 -0500",
       "entered_pillager_camp": "2025-12-19 17:21:39 -0500",
       "entered_deep_crypt": "2025-12-19 19:50:59 -0500",
+      "entered_druid_circle": "2025-12-22 21:02:41 -0500",
       "entered_ruined_building": "2025-12-20 12:07:50 -0500"
     },
     "done": false
@@ -461,6 +474,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-12-22 20:31:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-12-17 23:35:20 -0500"
@@ -527,6 +546,12 @@
       "opened_chest": "2025-12-14 23:36:12 -0500"
     },
     "done": false
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-12-22 20:45:58 -0500"
+    },
+    "done": true
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -1110,6 +1135,7 @@
       "minecraft:cold_ocean": "2025-12-15 00:22:54 -0500",
       "minecraft:forest": "2025-12-15 00:11:08 -0500",
       "minecraft:deep_cold_ocean": "2025-12-20 11:56:20 -0500",
+      "minecraft:deep_frozen_ocean": "2025-12-22 20:48:57 -0500",
       "minecraft:ocean": "2025-12-20 11:41:20 -0500",
       "minecraft:snowy_beach": "2025-12-20 12:10:12 -0500",
       "minecraft:flower_forest": "2025-12-19 17:22:09 -0500",
@@ -1282,6 +1308,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-12-19 11:44:25 -0500"
+    },
+    "done": true
+  },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-12-22 20:04:34 -0500"
     },
     "done": true
   },
@@ -1637,6 +1669,7 @@
       "cooked_chicken": "2025-12-21 22:31:28 -0500",
       "cooked_mutton": "2025-12-19 11:54:36 -0500",
       "golden_apple": "2025-12-19 17:59:20 -0500",
+      "enchanted_golden_apple": "2025-12-22 21:43:08 -0500",
       "carrot": "2025-12-19 07:32:07 -0500"
     },
     "done": false
@@ -1762,6 +1795,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-12-22 20:48:57 -0500"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-12-14 23:36:20 -0500"
@@ -1819,6 +1858,12 @@
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
       "builder_request": "2025-12-16 22:38:22 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-12-22 20:48:09 -0500"
     },
     "done": true
   },
@@ -2160,6 +2205,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-12-22 21:16:23 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-12-15 00:13:47 -0500",
@@ -2447,6 +2498,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-12-22 20:53:12 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
       "spellstone": "2025-12-20 09:59:03 -0500"
@@ -2487,6 +2544,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2025-12-19 18:28:43 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-12-22 20:48:09 -0500"
     },
     "done": true
   },

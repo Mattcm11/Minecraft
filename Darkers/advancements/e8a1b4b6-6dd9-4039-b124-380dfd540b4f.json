@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/void_tome": {
+    "criteria": {
+      "has_items": "2025-12-22 21:14:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-12-19 15:03:39 -0500"
@@ -164,7 +170,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-12-19 12:16:36 -0500"
+      "in_better_monster_room": "2025-12-19 12:16:36 -0500",
+      "in_better_skeleton_dungeon": "2025-12-22 21:33:50 -0500"
     },
     "done": false
   },
@@ -430,6 +437,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-12-22 21:01:31 -0500"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
@@ -535,6 +548,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-12-18 22:06:55 -0500"
+    },
+    "done": true
+  },
+  "majruszsaccessories:swimmer_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-22 21:18:22 -0500"
     },
     "done": true
   },
@@ -783,6 +802,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-22 20:19:52 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
@@ -798,6 +823,12 @@
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2025-12-19 17:46:46 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-12-22 21:22:31 -0500"
     },
     "done": true
   },
@@ -945,6 +976,12 @@
     },
     "done": true
   },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2025-12-22 20:19:52 -0500"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-12-19 23:47:33 -0500"
@@ -957,6 +994,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-12-22 21:33:50 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:40 -0500"
@@ -966,6 +1009,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-12-20 11:50:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-12-22 21:31:41 -0500"
     },
     "done": true
   },
@@ -1608,6 +1657,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-12-22 21:22:31 -0500"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-12-18 23:18:16 -0500"
@@ -1894,6 +1949,12 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-12-22 20:57:23 -0500"
+    },
+    "done": true
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-12-18 22:06:55 -0500"
@@ -2089,6 +2150,12 @@
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-12-22 20:48:09 -0500"
     },
     "done": true
   },
@@ -2585,6 +2652,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2025-12-22 20:13:17 -0500"
+    },
+    "done": true
+  },
   "iter_rpg:iter_cursed": {
     "criteria": {
       "iter_cursed": "2025-12-20 10:29:09 -0500"
@@ -2928,6 +3001,12 @@
     },
     "done": true
   },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-12-22 20:48:09 -0500"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-12-18 23:49:27 -0500"
@@ -3108,6 +3187,12 @@
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {
       "has_items": "2025-12-18 23:05:13 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2025-12-22 20:13:17 -0500"
     },
     "done": true
   },

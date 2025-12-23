@@ -241,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-12-22 21:46:01 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-12-14 23:26:38 -0500",
@@ -251,6 +257,13 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-12-14 23:39:36 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500",
+      "has_items": "2025-12-22 21:11:48 -0500"
     },
     "done": true
   },
@@ -287,6 +300,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-12-16 18:52:53 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-12-22 23:06:07 -0500"
     },
     "done": true
   },
@@ -476,6 +495,12 @@
     },
     "done": false
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2025-12-22 22:07:37 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-12-15 03:37:37 -0500"
@@ -644,6 +669,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-12-22 23:06:07 -0500"
+    },
+    "done": true
+  },
   "simplyswords:molten_edge": {
     "criteria": {
       "requirement": "2025-12-17 19:15:10 -0500"
@@ -711,6 +742,12 @@
     },
     "done": false
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-12-22 20:58:31 -0500"
+    },
+    "done": true
+  },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -738,6 +775,12 @@
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
       "builder_request": "2025-12-16 21:14:21 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-12-22 20:48:09 -0500"
     },
     "done": true
   },
@@ -771,6 +814,7 @@
       "minecraft:phantom": "2025-12-15 03:40:52 -0500",
       "minecraft:zombified_piglin": "2025-12-16 22:58:19 -0500",
       "minecraft:witch": "2025-12-15 23:01:27 -0500",
+      "minecraft:husk": "2025-12-22 20:01:26 -0500",
       "minecraft:zombie": "2025-12-15 03:41:07 -0500",
       "minecraft:drowned": "2025-12-15 03:37:18 -0500"
     },
@@ -823,6 +867,12 @@
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/fabulous_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500"
+    },
+    "done": false
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -1044,13 +1094,20 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500",
       "has_items": "2025-12-16 20:26:45 -0500"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-12-22 23:06:07 -0500"
     },
     "done": true
   },
@@ -1103,6 +1160,12 @@
       "cutting_board": "2025-12-15 02:13:37 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500"
+    },
+    "done": false
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -1158,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-12-22 21:46:01 -0500"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-12-14 23:45:23 -0500"
@@ -1173,6 +1242,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-12-22 21:11:48 -0500"
     },
     "done": true
   },
@@ -1294,6 +1369,12 @@
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-12-16 19:41:35 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2025-12-22 22:50:50 -0500"
     },
     "done": true
   },
@@ -1543,6 +1624,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-12-22 23:06:07 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-12-22 23:06:07 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/decorations/lamp": {
     "criteria": {
       "has_the_recipe": "2025-12-17 23:33:00 -0500"
@@ -1724,6 +1817,12 @@
     },
     "done": true
   },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-12-22 20:48:09 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -1753,6 +1852,12 @@
       "pumpkin_stem": "2025-12-16 19:45:23 -0500"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500"
+    },
+    "done": false
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
@@ -1805,6 +1910,7 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500",
       "has_items2": "2025-12-18 00:05:20 -0500"
     },
     "done": false
@@ -1824,6 +1930,12 @@
   "incendium:technical/on_kill": {
     "criteria": {
       "log_spam_fixer": "2025-12-14 23:26:39 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-12-22 23:06:07 -0500"
     },
     "done": false
   },
@@ -1963,6 +2075,12 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-12-22 23:06:07 -0500"
     },
     "done": true
   },
