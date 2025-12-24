@@ -982,6 +982,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_lumberjack": {
+    "criteria": {
+      "lumberjack": "2025-12-23 22:49:00 -0500"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -2119,6 +2125,12 @@
     },
     "done": false
   },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2025-12-23 22:54:27 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:14:19 -0500"
@@ -2507,6 +2519,12 @@
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
       "spellstone": "2025-12-20 09:59:03 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2025-12-23 22:54:27 -0500"
     },
     "done": true
   },
