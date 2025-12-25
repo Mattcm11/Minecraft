@@ -377,6 +377,12 @@
     },
     "done": false
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2025-12-24 18:13:12 -0500"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
@@ -641,11 +647,14 @@
       "minecraft:ravager": "2025-12-19 23:52:36 -0500",
       "minecraft:ghast": "2025-12-19 08:49:46 -0500",
       "minecraft:hoglin": "2025-12-19 09:39:49 -0500",
+      "savage_and_ravage:executioner": "2025-12-24 17:57:23 -0500",
+      "minecraft:guardian": "2025-12-24 18:03:50 -0500",
       "minecraft:vindicator": "2025-12-19 16:39:14 -0500",
       "minecraft:magma_cube": "2025-12-19 08:08:28 -0500",
       "minecraft:piglin_brute": "2025-12-19 08:02:24 -0500",
       "minecraft:spider": "2025-12-19 15:39:35 -0500",
       "minecraft:creeper": "2025-12-19 14:01:41 -0500",
+      "savage_and_ravage:trickster": "2025-12-24 18:00:20 -0500",
       "minecraft:evoker": "2025-12-19 23:52:59 -0500",
       "minecraft:phantom": "2025-12-20 11:49:30 -0500",
       "minecraft:zombified_piglin": "2025-12-23 23:29:17 -0500",
@@ -1049,6 +1058,12 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-12-22 21:33:50 -0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-24 18:13:31 -0500"
     },
     "done": true
   },
@@ -1806,6 +1821,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-24 18:03:01 -0500"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
@@ -1863,6 +1884,12 @@
   "enigmaticlegacy:main/recall_potion": {
     "criteria": {
       "spellstone": "2025-12-19 18:27:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-12-24 18:01:31 -0500"
     },
     "done": true
   },
@@ -1997,6 +2024,12 @@
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:43:39 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2025-12-24 18:41:06 -0500"
     },
     "done": true
   },
@@ -2271,6 +2304,12 @@
   "minecolonies:minecolonies/build_guard_tower": {
     "criteria": {
       "guard_tower": "2025-12-22 20:48:09 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-12-24 18:32:08 -0500"
     },
     "done": true
   },
@@ -3062,6 +3101,12 @@
       "enchanted_item": "2025-12-20 16:08:45 -0500"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-12-24 19:10:47 -0500"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {

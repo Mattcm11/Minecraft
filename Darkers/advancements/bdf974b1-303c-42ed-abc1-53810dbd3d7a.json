@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-12-24 22:58:04 -0500"
+    },
+    "done": true
+  },
   "morevillagers:first_village": {
     "criteria": {
       "plains": "2025-12-15 00:09:41 -0500"
@@ -297,6 +303,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-12-24 23:01:52 -0500"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -422,6 +434,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-12-24 17:55:09 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -455,6 +473,12 @@
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-12-24 22:58:12 -0500"
     },
     "done": true
   },
@@ -498,6 +522,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-12-15 23:00:48 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-12-24 22:58:04 -0500"
     },
     "done": true
   },
@@ -561,6 +591,12 @@
       "minecraft:sheep": "2025-12-23 18:37:43 -0500"
     },
     "done": false
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-12-24 23:01:40 -0500"
+    },
+    "done": true
   },
   "takesapillage:root": {
     "criteria": {
@@ -839,6 +875,7 @@
       "minecraft:skeleton": "2025-12-15 03:41:38 -0500",
       "savage_and_ravage:creepie": "2025-12-15 22:57:07 -0500",
       "minecraft:ravager": "2025-12-22 16:23:39 -0500",
+      "minecraft:vindicator": "2025-12-24 18:00:20 -0500",
       "minecraft:spider": "2025-12-15 20:47:11 -0500",
       "minecraft:creeper": "2025-12-15 03:41:35 -0500",
       "savage_and_ravage:trickster": "2025-12-22 16:19:48 -0500",
@@ -848,7 +885,8 @@
       "minecraft:husk": "2025-12-22 20:01:26 -0500",
       "minecraft:enderman": "2025-12-23 17:51:09 -0500",
       "minecraft:zombie": "2025-12-15 03:41:07 -0500",
-      "minecraft:drowned": "2025-12-15 03:37:18 -0500"
+      "minecraft:drowned": "2025-12-15 03:37:18 -0500",
+      "minecraft:zombie_villager": "2025-12-24 23:01:57 -0500"
     },
     "done": false
   },
@@ -954,11 +992,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-24 17:47:30 -0500"
+    },
+    "done": true
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-12-17 21:44:39 -0500",
       "fletchingtable": "2025-12-15 02:21:40 -0500",
-      "loom": "2025-12-23 21:41:53 -0500"
+      "loom": "2025-12-23 21:41:53 -0500",
+      "cauldron": "2025-12-24 22:41:38 -0500"
     },
     "done": false
   },
@@ -1077,6 +1122,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-12-24 23:01:52 -0500"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -1185,6 +1236,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-12-15 22:17:28 -0500",
+      "wheat": "2025-12-24 15:16:08 -0500",
       "pumpkin": "2025-12-16 19:45:23 -0500"
     },
     "done": false
@@ -1279,6 +1331,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-12-24 22:58:04 -0500"
+    },
+    "done": false
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-12-14 23:26:38 -0500"
@@ -1366,6 +1424,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-12-15 03:32:37 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-12-24 17:48:56 -0500"
     },
     "done": true
   },
@@ -1752,9 +1816,14 @@
       "byg:cika_woods": "2025-12-15 02:50:42 -0500",
       "byg:warped_desert": "2025-12-16 20:01:50 -0500",
       "byg:magma_wastes": "2025-12-16 19:41:36 -0500",
+      "byg:zelkova_forest": "2025-12-24 23:19:15 -0500",
+      "byg:dacite_ridges": "2025-12-24 23:18:19 -0500",
       "byg:howling_peaks": "2025-12-15 02:50:13 -0500",
       "byg:skyris_vale": "2025-12-15 02:50:32 -0500",
+      "byg:twilight_meadow": "2025-12-24 23:10:42 -0500",
       "byg:crimson_gardens": "2025-12-16 20:12:12 -0500",
+      "byg:canadian_shield": "2025-12-24 23:10:43 -0500",
+      "byg:coniferous_forest": "2025-12-24 23:17:21 -0500",
       "byg:basalt_barrera": "2025-12-16 18:42:26 -0500",
       "byg:maple_taiga": "2025-12-15 00:33:59 -0500",
       "byg:borealis_grove": "2025-12-15 02:50:23 -0500"
@@ -1810,6 +1879,7 @@
       "minecraft:cold_ocean": "2025-12-15 00:04:49 -0500",
       "minecraft:forest": "2025-12-15 00:15:14 -0500",
       "minecraft:old_growth_spruce_taiga": "2025-12-15 02:48:32 -0500",
+      "minecraft:meadow": "2025-12-24 23:09:22 -0500",
       "minecraft:plains": "2025-12-15 00:09:40 -0500"
     },
     "done": false
@@ -1817,6 +1887,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-12-15 00:13:18 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-12-24 22:58:04 -0500"
     },
     "done": true
   },
@@ -2100,6 +2176,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-12-24 22:57:55 -0500"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-12-14 23:26:38 -0500"
@@ -2141,6 +2223,12 @@
       "has_parent_recipe": "2025-12-15 03:39:04 -0500"
     },
     "done": false
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-12-24 23:27:29 -0500"
+    },
+    "done": true
   },
   "vinery:grapevine_pot": {
     "criteria": {

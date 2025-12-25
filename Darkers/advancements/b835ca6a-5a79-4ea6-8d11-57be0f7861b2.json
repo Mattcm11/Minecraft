@@ -325,6 +325,7 @@
       "entered_deep_crypt": "2025-12-21 17:10:32 -0500",
       "entered_druid_circle": "2025-12-19 23:15:31 -0500",
       "entered_watch_tower": "2025-12-21 15:53:40 -0500",
+      "entered_sunken_shrine": "2025-12-24 18:24:00 -0500",
       "entered_ruined_building": "2025-12-19 16:02:12 -0500"
     },
     "done": false
@@ -521,6 +522,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-12-24 15:43:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-12-18 21:48:30 -0500"
@@ -645,10 +652,12 @@
       "minecraft:skeleton": "2025-12-18 22:16:40 -0500",
       "savage_and_ravage:creepie": "2025-12-22 16:17:31 -0500",
       "minecraft:zoglin": "2025-12-22 20:05:58 -0500",
+      "minecraft:elder_guardian": "2025-12-24 18:13:17 -0500",
       "minecraft:ravager": "2025-12-22 12:48:24 -0500",
       "minecraft:ghast": "2025-12-20 11:43:54 -0500",
       "minecraft:hoglin": "2025-12-21 19:37:18 -0500",
       "savage_and_ravage:executioner": "2025-12-22 16:18:51 -0500",
+      "minecraft:guardian": "2025-12-24 18:03:26 -0500",
       "minecraft:vindicator": "2025-12-18 22:16:56 -0500",
       "minecraft:magma_cube": "2025-12-20 10:57:24 -0500",
       "minecraft:spider": "2025-12-18 22:54:35 -0500",
@@ -1050,6 +1059,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-12-24 18:14:06 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:31 -0500"
@@ -1146,6 +1161,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-12-24 18:58:35 -0500"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
@@ -1233,6 +1254,12 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-12-21 13:43:04 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-12-24 18:48:14 -0500"
     },
     "done": true
   },
@@ -1690,6 +1717,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-12-18 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-12-24 18:58:03 -0500"
     },
     "done": true
   },
@@ -2260,6 +2293,12 @@
   "minecolonies:minecolonies/build_guard_tower": {
     "criteria": {
       "guard_tower": "2025-12-22 20:48:09 -0500"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-12-24 18:32:08 -0500"
     },
     "done": true
   },
@@ -2986,6 +3025,7 @@
       "byg:prairie": "2025-12-18 22:32:51 -0500",
       "byg:rainbow_beach": "2025-12-21 19:25:32 -0500",
       "byg:sythian_torrids": "2025-12-20 10:53:10 -0500",
+      "byg:autumnal_taiga": "2025-12-24 18:39:26 -0500",
       "byg:glowstone_gardens": "2025-12-19 17:03:37 -0500",
       "byg:orchard": "2025-12-20 14:27:39 -0500",
       "byg:red_oak_forest": "2025-12-20 14:41:42 -0500",
@@ -2998,6 +3038,7 @@
       "byg:zelkova_forest": "2025-12-19 23:39:24 -0500",
       "byg:araucaria_savanna": "2025-12-20 14:41:44 -0500",
       "byg:wailing_garth": "2025-12-20 10:29:44 -0500",
+      "byg:crag_gardens": "2025-12-24 15:25:13 -0500",
       "byg:dacite_ridges": "2025-12-19 15:43:31 -0500",
       "byg:autumnal_valley": "2025-12-21 21:11:33 -0500",
       "byg:skyris_vale": "2025-12-19 23:37:32 -0500",
@@ -3080,7 +3121,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-12-23 23:52:39 -0500"
+      "!bit13": "2025-12-24 18:28:32 -0500",
+      "!bit14": "2025-12-24 18:28:32 -0500",
+      "!bit11": "2025-12-24 18:28:32 -0500",
+      "!bit12": "2025-12-24 18:28:32 -0500",
+      "!bit10": "2025-12-24 18:28:32 -0500",
+      "!bit9": "2025-12-24 18:28:32 -0500",
+      "!bit8": "2025-12-24 18:28:32 -0500",
+      "!bit7": "2025-12-24 18:28:32 -0500",
+      "!bit6": "2025-12-24 18:28:32 -0500",
+      "!bit5": "2025-12-24 18:28:32 -0500",
+      "!bit4": "2025-12-24 18:28:32 -0500",
+      "!bit3": "2025-12-24 18:28:32 -0500",
+      "!bit2": "2025-12-24 18:28:32 -0500",
+      "!bit1": "2025-12-24 18:28:32 -0500",
+      "!bit0": "2025-12-24 18:28:32 -0500"
     },
     "done": false
   },
@@ -3294,6 +3349,12 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-12-24 18:58:35 -0500"
+    },
+    "done": true
+  },
   "apotheosis:spawner/modifier": {
     "criteria": {
       "modifier": "2025-12-19 22:01:32 -0500"
@@ -3423,6 +3484,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-12-19 18:26:10 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-12-24 18:58:34 -0500"
     },
     "done": true
   },
