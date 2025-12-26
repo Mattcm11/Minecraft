@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "bdf974b1-303c-42ed-abc1-53810dbd3d7a"
 	ranks: {
+		ae3f7f3b-03a7-414e-970a-b035d146c4d4: "invited"
 		b835ca6a-5a79-4ea6-8d11-57be0f7861b2: "member"
 		e8a1b4b6-6dd9-4039-b124-380dfd540b4f: "member"
 		0371e0c3-7d44-42b0-a578-a5374f757759: "member"
@@ -38,6 +39,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1765938207465L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Mattcm11\"}]}" }
 		{ from: "bdf974b1-303c-42ed-abc1-53810dbd3d7a", date: 1766436554760L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Yefer98\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1766436560612L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Yefer98\"}]}" }
+		{ from: "bdf974b1-303c-42ed-abc1-53810dbd3d7a", date: 1766688550230L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"onlyrksss\"}]}" }
 	]
 	extra: { }
 }
